@@ -16,6 +16,6 @@ This project was put together in less than 12 hours to demonstrate some AWS serv
 Files provided:
 
 - [x] Draw.io [architecture diagram](documentation/hawte_taco_arch.xml)
-- [x] Lambda JSON
+- [x] [Lambda code](lambda_function.py)
 - [ ] [CodeFormation](https://aws.amazon.com/cloudformation/) template
 - [ ] Script to generate sample data
